@@ -1,0 +1,9 @@
+DOMAIN=react.app
+
+USER=pablo
+GROUP=pablo
+PORT=3000
+
+nodeversion=12.19.0
+
+include .rules.mk
